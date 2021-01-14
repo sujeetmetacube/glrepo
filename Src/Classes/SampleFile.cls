@@ -1,3 +1,3 @@
 public with sharing class SampleFile {
-	public Integer nValue = 1;
+	public Integer nValue = 0;
 }
